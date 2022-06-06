@@ -8,3 +8,9 @@ Full stack web application for cardiology department
 - The application uses static files, file uploads (Patient scans). 
 - It also synchronized with google calendar for doctors’ appointments.
 
+&nbsp;
+
+## Getting Started
+
+1. Run the database file: python database.py
+2. Run the project files: python server.py
